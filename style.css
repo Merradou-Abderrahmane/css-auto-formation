@@ -1,6 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    background: lightyellow;
-    font: 18px Arial, sans-serif;
+    color: crimson;
+    background:#FFFAFA;
+    font: 18px italic, sans-serif;
 }
 h1 {
     color: orange;
