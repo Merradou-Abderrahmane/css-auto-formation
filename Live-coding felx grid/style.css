@@ -1,21 +1,27 @@
-
-nav {
-    background: burlywood;
+body{
+    margin: auto;
 }
-
-header {
-    background: cadetblue;
+header nav ul  {
+    display: flex;
+    list-style: none;
 }
+header nav ul li{
+    flex : 0 0 100px;
+    background-color: indigo;
+    color : white;
+    margin: 0px 90px;
+    padding: 5px;
+    text-align: center;
 
-section {
-    background: coral;
 }
-
+main h1{
+    color: indigo;
+}
 aside {
-    background: darkcyan;
+    background-color: lightcoral;
 }
-
 footer{
+    background-color: black;
     color: white;
-    background: black;
+    padding: 0.25rem;
 }
