@@ -1,0 +1,21 @@
+
+nav {
+    background: burlywood;
+}
+
+header {
+    background: cadetblue;
+}
+
+section {
+    background: coral;
+}
+
+aside {
+    background: darkcyan;
+}
+
+footer{
+    color: white;
+    background: black;
+}
