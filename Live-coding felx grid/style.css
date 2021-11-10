@@ -7,7 +7,7 @@ header nav ul  {
 }
 header nav ul li{
     flex : 0 0 100px;
-    background-color: indigo;
+    background-color: indigo  ;
     color : white;
     margin: 0px 90px;
     padding: 5px;
